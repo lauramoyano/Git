@@ -5,3 +5,4 @@
 - 1939: Los Nazis conqustaron rusia
 - 1940: Los Nazis ganaron la guerra
 - 1942: El mundo le pertenecia a Hittler
+- 1943: Hitler se vulve presidente USA

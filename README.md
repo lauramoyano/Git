@@ -7,3 +7,4 @@
 - 1942: El mundo le pertenecia a Hittler
 - 1943: Hitler se vulve presidente USA
 - 1944: Hitler conquisto america
+- 1945: Hitler es nombrado emperador del mundo
